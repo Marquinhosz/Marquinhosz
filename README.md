@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marquinhosz
 - 👀 I’m interested in aprender e criar 
 - 🌱 I’m currently learning a criar um site em grupo 
-- 💞️ I’m looking to collaborate on qualquer coisa que tiver
+- 💞️ I’m looking to collaborate on qualquer coisa 
 - 📫 How to reach me Instagram marquin_rlk11
 
 <!---
